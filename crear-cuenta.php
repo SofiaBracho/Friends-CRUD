@@ -5,6 +5,7 @@
 
     if(isset($_SESSION['nombre'])) {
         header('Location:index.php');
+        echo "<script>location.href='index.php';</script>";
         exit();
     }
 ?>

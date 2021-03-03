@@ -7,7 +7,7 @@
     <title>Friends</title>
     <link rel="stylesheet" href="css/fontawesome-all.min.css">
     <link rel="stylesheet" href="css/normalize.css">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
     <link rel="stylesheet" href="css/sweetalert2.min.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- Date Picker -->

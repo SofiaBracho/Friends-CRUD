@@ -1,9 +1,9 @@
 <?php
+    session_start();
     include 'inc/funciones/funciones.php';
     include 'inc/templates/header.php';
     include 'inc/templates/barra.php';
     include 'inc/funciones/sesiones.php';
-    session_start();
     usuario_autenticado();
 ?>
 
